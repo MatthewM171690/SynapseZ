@@ -14,7 +14,7 @@ Synapse Z is a revival of the now dead project Synapse X, which aims to build up
 ## How to Use Synapse Z? :tools:
 
 1. **Download:** Obtain the latest version of Synapse Z from the Releases tab or above.
-2. **Launch:** No install needed! Synapse Z is fully portable. Just run it and it works with little to no wait! 
+2. **Launch:** No install needed! Synapse Z is fully portable.
 
 ## FAQ :question:
 
